@@ -1,4 +1,4 @@
-# Flask Web App Tutorial
+# Banana Tagging Web Application
 
 ## Setup & Installation
 
